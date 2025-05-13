@@ -1,6 +1,7 @@
 {
   "name": "@npmthahzan/not-so-express",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
+  "private": false,
   "description": "Not Express.js, but not so bad either.",
   "main": "./lib/index.js",
   "files": [
