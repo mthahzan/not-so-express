@@ -5,8 +5,6 @@ on:
 jobs:
   release:
     name: Release
-    secrets:
-      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
