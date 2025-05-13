@@ -1,4 +1,4 @@
-# @npmthahzan@npmthahzan/not-so-express
+# @npmthahzan/not-so-express
 
 My own (quite shitty) version of Express.js
 
